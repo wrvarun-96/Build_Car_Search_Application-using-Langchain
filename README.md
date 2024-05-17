@@ -4,9 +4,8 @@ This repository demonstrates how to use the LangChain library to create a multi-
 
 ## Overview
 
-The project sets up two sequential chains of operations using prompt templates and the OpenAI language model. The first chain retrieves information about a car brand, and the second chain provides more detailed information about a specific car model obtained from the first chain's output.
+The project sets up three sequential chains of operations using prompt templates and the OpenAI language model. The first chain retrieves information about a car brand, the second chain provides more detailed information about a specific car model obtained from the first chain's output, and the third chain lists 5 models from the car brand obtained from the first chain's output.
 
 ## Installation
 
 To run this project, you need to have Python installed along with the necessary libraries. You can install the required libraries using pip:
-
