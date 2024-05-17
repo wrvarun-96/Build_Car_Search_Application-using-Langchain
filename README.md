@@ -1,6 +1,6 @@
 # LangChain Car Brand Information Chain
 
-This repository demonstrates how to use the LangChain library to create a multi-step workflow for retrieving and processing information about car brands using OpenAI's language model.
+This repository demonstrates how to use the LangChain library to create a multi-step workflow for retrieving and processing information about car brands using OpenAI's language model. Custom number of prompts  and the number of chains can be modified based on your choice.
 
 ## Overview
 
